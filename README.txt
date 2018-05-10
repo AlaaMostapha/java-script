@@ -9,7 +9,7 @@ second one : delete function
 1-when click on delete button check if there is a data in localstorage or not
 2-if ther is a data then delete it
 
-third one : selv invoking function
+third one : self invoking function
 1-get data from local storage
 2-check if it exist or not
 3-then if ther is a data put it in an array
