@@ -12,5 +12,5 @@ second one : delete function
 third one : self invoking function
 1-get data from local storage
 2-check if it exist or not
-3-then if ther is a data put it in an array
+3-then if there is a data put it in an array
 4-then create tr and 2 tds and but this data in them
